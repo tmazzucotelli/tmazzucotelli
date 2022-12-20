@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tmazzucotelli
+- 👋 Hi, I’m @vect-tmazzucotelli (Timothée Mazzucotelli)
 - 👀 I’m interested in PYTHON
 - 🌱 I’m currently learning PYTHON
 - 💞️ I’m looking to collaborate on PYTHON
